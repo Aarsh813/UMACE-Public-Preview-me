@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686410668428",
+    "project_id": "umace-2cda3",
+    "storage_bucket": "umace-2cda3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686410668428:android:959d4aab7567b3083edea9",
+        "android_client_info": {
+          "package_name": "com.mycompany.umace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAleNs7k7IP5YgeErekDLNkWR0-dLC9czA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
